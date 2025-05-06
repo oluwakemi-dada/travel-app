@@ -49,18 +49,6 @@
       }
     },
     {
-      "id": "b119",
-      "cityName": "Hemonstoir",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-05-06T16:41:59.246Z",
-      "notes": "",
-      "position": {
-        "lat": "48.14601267012721",
-        "lng": "-2.83447265625"
-      }
-    },
-    {
       "id": "7ea9",
       "cityName": "Abuja",
       "country": "Nigeria",
@@ -106,18 +94,6 @@
       "position": {
         "lat": "4.708450711279151",
         "lng": "-74.07325744628908"
-      }
-    },
-    {
-      "id": "5d73",
-      "cityName": "Blairgowrie and Rattray",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2025-05-06T16:57:16.888Z",
-      "notes": "",
-      "position": {
-        "lat": "56.83077166349785",
-        "lng": "-3.4277343750000004"
       }
     },
     {

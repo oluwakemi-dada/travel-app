@@ -33,8 +33,6 @@ const Form = () => {
   const [emoji, setEmoji] = useState('');
   const [geocodingError, setGeocodingError] = useState('');
 
-  console.log(country);
-
   useEffect(() => {
     if (!lat && !lng) return;
 
