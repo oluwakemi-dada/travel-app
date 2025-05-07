@@ -37,18 +37,6 @@
       "id": "98443199"
     },
     {
-      "id": "e0f7",
-      "cityName": "Martindale",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2025-05-06T16:21:39.904Z",
-      "notes": "",
-      "position": {
-        "lat": "54.55761690427541",
-        "lng": "-2.9003906250000004"
-      }
-    },
-    {
       "id": "7ea9",
       "cityName": "Abuja",
       "country": "Nigeria",
@@ -58,18 +46,6 @@
       "position": {
         "lat": "9.034349099760584",
         "lng": "7.218017578125001"
-      }
-    },
-    {
-      "id": "bc2e",
-      "cityName": "Bonnat",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-05-06T16:49:37.834Z",
-      "notes": "Cool",
-      "position": {
-        "lat": "46.33946166512968",
-        "lng": "1.9335937500000002"
       }
     },
     {
@@ -106,6 +82,30 @@
       "position": {
         "lat": "22.75358799561413",
         "lng": "-102.44750976562501"
+      }
+    },
+    {
+      "id": "0428",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-05-07T12:18:11.134Z",
+      "notes": "Cool city",
+      "position": {
+        "lat": "51.504851917301586",
+        "lng": "-0.08239746093750001"
+      }
+    },
+    {
+      "id": "0702",
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2025-05-07T12:24:38.963Z",
+      "notes": "",
+      "position": {
+        "lat": "52.37037287203374",
+        "lng": "4.930114746093751"
       }
     }
   ]
